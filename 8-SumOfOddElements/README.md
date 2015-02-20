@@ -1,4 +1,4 @@
-# Array of N Elements
+# Sum of odd elements
 
 ### Problem statement
 Return sum of odd elements from an list. The input and output portions will be handled automatically. You need to write a function with the recommended method signature.
